@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silvia</h1>
-<h3 align="center">A junior but passionate frontend developer based in Berlin</h3>
+<h3 align="center">A junior but passionate full-stack web developer based in Berlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silviacastagna&label=Profile%20views&color=0e75b6&style=flat" alt="silviacastagna" /> </p>
 
@@ -16,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silviacastagna&show_icons=true&locale=en&layout=compact" alt="silviacastagna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silviacastagna&show_icons=true&locale=en" alt="silviacastagna" /></p>
-
